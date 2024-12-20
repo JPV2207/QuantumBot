@@ -1,7 +1,5 @@
 # QuantumBot
 
-# QuantumBot
-
 QuantumBot is an intelligent chatbot application that allows users to ask any question and receive real-time answers. It leverages Google’s Gemini API for natural language processing and the Web Speech API for speech recognition, providing a seamless and interactive user experience.
 
 ## Features
